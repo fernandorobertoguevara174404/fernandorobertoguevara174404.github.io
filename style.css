@@ -1,0 +1,45 @@
+html
+{
+    background-color: #228B22;
+}
+
+main
+{    
+    background-color: #98FB98;
+       
+}
+img  
+{
+    height: 20%;
+    width: 20%;
+    border: 5px solid red;
+}
+
+h1
+{
+    color: #800000;
+    font-size: 22px;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+#titulo
+{
+    color: #800000;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 30px;
+}
+
+p
+{
+    color: black;
+    font-size: 18px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+li
+{
+    color: black;
+    font-size: 18px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
