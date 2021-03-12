@@ -6,13 +6,23 @@ html
 main
 {    
     background-color: #98FB98;
+    margin-left: 15%;
+    margin-right: 15%;
+    border:  1px solid red;
        
 }
+
+#foto
+{
+    align-content: center;
+    padding-bottom: 3%;
+}
+
 img  
 {
     height: 20%;
     width: 20%;
-    border: 5px solid red;
+    border: 5px solid #E59866;
 }
 
 h1
@@ -22,6 +32,18 @@ h1
     font-family: 'DotGothic16', sans-serif;
 }
 
+#bio
+{
+    background-color:#E59866;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: justify;
+    border-top:  1px solid red;
+    border-bottom:  1px solid red;
+}
+
 #titulo
 {
     color: #800000;
@@ -29,17 +51,32 @@ h1
     font-size: 30px;
 }
 
-p
+.des
 {
     color: black;
     font-size: 18px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
-li
+.lis
 {
     color: black;
     font-size: 18px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+    border:  1px solid red;
+    padding-left: 5%;
+    padding-bottom: 3%;
+}
+
+.jimg
+{
+    padding-bottom: 3%;
+}
+
+.imgjue  
+{
+    height: 30%;
+    width: 30%;
+    border: 5px solid #E59866;
 }
 
