@@ -1,0 +1,62 @@
+#barra1
+{
+    background-color: darkslategray;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+#barra2
+{
+    background-color: saddlebrown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#barra3
+{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.square1
+{
+    width: 50%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.foto
+{
+    display: flex;
+    background-color: darkslateblue;
+    justify-content: center;
+    width: 15%;
+    flex-direction: column;
+}
+
+body
+{
+    background-color: black;
+}
+
+main
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1
+{
+    margin: 0px;
+}
