@@ -1,0 +1,109 @@
+html
+{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#barrablanca{
+    background-color: white;
+    color: gray;
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#logo
+{
+    margin-right: auto;
+    margin-left: 2%;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.barra
+{
+    margin: 15px;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body
+{
+    background-image: url("https://nutricionsas.com/nutsasreport/wp-content/uploads/2014/12/sandwich-gourmet.jpg");
+    margin-left: 20%;
+    margin-right: 20%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container1
+{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    align-items: baseline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+.blan
+{
+    color: honeydew;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.nara
+{
+    color: orangered;
+    margin: 5px;
+    font-size: 30px;
+}
+.container2
+{
+    display: grid;
+    background-color: white;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 180px 180px 180px;
+}
+
+.im
+{
+    background-color: blue;
+}
+
+
+h1
+{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15%;
+    margin-bottom: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p
+{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.parr
+{
+
+    text-align: center;
+    font-size: 13px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main
+{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    align-content: space-between;
+    align-content: flex-end;
+}
