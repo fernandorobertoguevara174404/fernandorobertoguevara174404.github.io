@@ -16,6 +16,8 @@ html
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 10px;
+    font-size: medium;
 }
 
 h1
