@@ -17,7 +17,11 @@ html
     flex-direction: column;
     justify-content: center;
     margin-bottom: 10px;
-    font-size: medium;
+}
+
+.un
+{
+    text-align: center;
 }
 
 h1
@@ -29,6 +33,7 @@ img
 {
     width: 75%;
     height: 75%;
+    margin-bottom: 10px;
 }
 
 main
