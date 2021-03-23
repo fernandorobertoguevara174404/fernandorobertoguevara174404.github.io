@@ -11,9 +11,11 @@ html
     justify-content: center;
 }
 
-img
+.im
 {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 h1
