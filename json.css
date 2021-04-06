@@ -1,0 +1,66 @@
+*
+{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+
+    
+}
+
+body
+{
+    background-color: coral;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+#form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1
+{
+    text-align: center;
+    margin-top: 2em;
+}
+.campo
+{
+    margin: 1em;
+}
+
+#areajson
+{
+    margin-top: 3em;
+}
+
+label
+{
+    display: block;
+    font-size: 20px;
+}
+
+.boton
+{
+    display: flex;
+    margin: 1em;
+    justify-content: center;
+}
+
+button
+{
+    font-size: 18px;
+}
+
+textarea
+{
+    font-size: 20px;
+}
+
+input
+{
+    font-size: 25px;
+}
+
