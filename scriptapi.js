@@ -3,7 +3,7 @@
 http://www.7timer.info/bin/civillight.php?lon=22.22&lat=-97.86&ac=0&unit=metric&output=json&tzshift=0
 */
 
-let requestURL = "http://www.7timer.info/bin/civillight.php?lon=22.22&lat=-97.86&ac=0&unit=metric&output=json&tzshift=0";
+let requestURL = "http://www.7timer.info/bin/civillight.php?lon=-97.86&lat=22.22&ac=0&unit=metric&output=json&tzshift=0";
 let request = new XMLHttpRequest();
 request.open("GET",requestURL);
 request.responseType="json";
