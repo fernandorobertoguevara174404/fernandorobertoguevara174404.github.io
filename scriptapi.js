@@ -11,7 +11,7 @@ request.send();
 
 function formatofecha(fecha)
 {
-    
+    console.log("Date");
     let anio = fecha.substring(0,4);
     let mes = fecha.substring(4,6);
     let dia = fecha.substring(6,8);
