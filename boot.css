@@ -1,0 +1,50 @@
+
+html
+{
+    background-color: aquamarine;
+    color: darkred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bru
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.im
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 22px;
+}
+
+.un
+{
+    text-align: center;
+}
+a
+{
+    font-size: 30px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    width: 75%;
+    height: 75%;
+    margin-bottom: 10px;
+}
+
+main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

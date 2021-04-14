@@ -1,49 +1,48 @@
-html
+*
+{
+    margin: 0px;
+    border: 0px;
+}
+
+body
 {
     background-color: aquamarine;
-    color: darkred;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-.bru
-{
-    display: flex;
-    justify-content: center;
-    
-}
-
-.im
-{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-bottom: 22px;
-}
-
-.un
-{
-    text-align: center;
-}
-a
-{
-    font-size: 30px;
-}
-
 h1
 {
+    color: darkred;
     text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top: 10px solid darkred;
+    border-bottom: 10px solid darkred;
+    padding: 2%;
 }
 
-img
+h5
 {
-    width: 75%;
-    height: 75%;
-    margin-bottom: 10px;
+    color: darkolivegreen;
+    text-align: center;
+    border-top: 5px solid darkolivegreen;
+    border-bottom: 5px solid darkolivegreen;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-main
+p
 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    text-align: justify;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.col-sm
+{
+    font-size: 20px;
+    margin-top: 15px;
+
+}
+
+button
+{
+    color: darkred;
 }
